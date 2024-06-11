@@ -1,0 +1,9 @@
+
+# pycache folder
+__pycache__
+
+# docker file
+Dockerfile
+
+# env folder
+env/
